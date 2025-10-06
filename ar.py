@@ -17,9 +17,9 @@ y = 2
 print(v * y)'''
 
 #(iv) Division, it performs the division and prints the output(quotient) 9.0
-a = 18
+'''a = 18
 b = 2
-print(a/b)
+print(a/b)'''
 
 #(v) Modulus , it prints the remainder as 1
 '''p = 22
@@ -35,4 +35,5 @@ print(o // j) '''
 '''a = 2
 A = 5
 print(a ** A)'''
+
 
